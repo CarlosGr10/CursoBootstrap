@@ -1,9 +1,20 @@
+.text-ticket
+{
+    color: rgb(0, 149, 160) !important;
+}
+
 #footer
 {
     background-color: #007ea5;
 }
 
-a
+#header img
+{
+    width: 70px;
+}
+
+
+#footer a
 {
     color: white;
 }
