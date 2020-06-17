@@ -63,5 +63,15 @@
     color: white;
 }
 
+#place-time img
+{
+    max-width: 100%;
+}
+
+#place-time
+{
+    background-color: rgb(43, 43, 43);
+    color: rgb(255, 255, 255);
+}
 
 
